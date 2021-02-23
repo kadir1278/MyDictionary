@@ -1,0 +1,13 @@
+E:\Nots\YazılımGeliştiriciYetiştirmeKampı\GitHub\MyDictionary\MyDictionary\MyDictionary\bin\Debug\netcoreapp3.1\MyDictionary.exe
+E:\Nots\YazılımGeliştiriciYetiştirmeKampı\GitHub\MyDictionary\MyDictionary\MyDictionary\bin\Debug\netcoreapp3.1\MyDictionary.deps.json
+E:\Nots\YazılımGeliştiriciYetiştirmeKampı\GitHub\MyDictionary\MyDictionary\MyDictionary\bin\Debug\netcoreapp3.1\MyDictionary.runtimeconfig.json
+E:\Nots\YazılımGeliştiriciYetiştirmeKampı\GitHub\MyDictionary\MyDictionary\MyDictionary\bin\Debug\netcoreapp3.1\MyDictionary.runtimeconfig.dev.json
+E:\Nots\YazılımGeliştiriciYetiştirmeKampı\GitHub\MyDictionary\MyDictionary\MyDictionary\bin\Debug\netcoreapp3.1\MyDictionary.dll
+E:\Nots\YazılımGeliştiriciYetiştirmeKampı\GitHub\MyDictionary\MyDictionary\MyDictionary\bin\Debug\netcoreapp3.1\MyDictionary.pdb
+E:\Nots\YazılımGeliştiriciYetiştirmeKampı\GitHub\MyDictionary\MyDictionary\MyDictionary\obj\Debug\netcoreapp3.1\MyDictionary.csprojAssemblyReference.cache
+E:\Nots\YazılımGeliştiriciYetiştirmeKampı\GitHub\MyDictionary\MyDictionary\MyDictionary\obj\Debug\netcoreapp3.1\MyDictionary.AssemblyInfoInputs.cache
+E:\Nots\YazılımGeliştiriciYetiştirmeKampı\GitHub\MyDictionary\MyDictionary\MyDictionary\obj\Debug\netcoreapp3.1\MyDictionary.AssemblyInfo.cs
+E:\Nots\YazılımGeliştiriciYetiştirmeKampı\GitHub\MyDictionary\MyDictionary\MyDictionary\obj\Debug\netcoreapp3.1\MyDictionary.csproj.CoreCompileInputs.cache
+E:\Nots\YazılımGeliştiriciYetiştirmeKampı\GitHub\MyDictionary\MyDictionary\MyDictionary\obj\Debug\netcoreapp3.1\MyDictionary.dll
+E:\Nots\YazılımGeliştiriciYetiştirmeKampı\GitHub\MyDictionary\MyDictionary\MyDictionary\obj\Debug\netcoreapp3.1\MyDictionary.pdb
+E:\Nots\YazılımGeliştiriciYetiştirmeKampı\GitHub\MyDictionary\MyDictionary\MyDictionary\obj\Debug\netcoreapp3.1\MyDictionary.genruntimeconfig.cache
